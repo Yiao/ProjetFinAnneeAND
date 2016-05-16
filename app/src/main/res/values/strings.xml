@@ -26,4 +26,8 @@
 
     <string name="action_settings">Settings</string>
     <string name="title_activity_register">Register User</string>
+    <string name="title_activity_activity_search">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
 </resources>
