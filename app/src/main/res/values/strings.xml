@@ -30,4 +30,14 @@
 
     <!-- Strings related to login -->
     <string name="prompt_email">Email</string>
+
+
+
+    <!-- Strings for activity resultat -->
+    <string name= "title_activity_result">Result</string>
+
+
+    <!-- Strings for activity mytravel-->
+    <string name= "title_activity_travel">My Travel</string>
+
 </resources>
